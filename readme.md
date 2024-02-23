@@ -1,0 +1,1 @@
+One constant that has four methods (ADD, SUBSTRACT, MULTIPLY, DIVIDE) that recieve an array, checks that every element of that array is a number, if one of them is not a number it return NULL, else it will return the divition, multiplication, subtraction or addition of the numbers respectively.
